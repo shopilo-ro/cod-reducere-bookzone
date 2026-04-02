@@ -1,0 +1,22 @@
+{
+  "name": "cod-reducere-bookzone",
+  "version": "1.0.0",
+  "description": "Fetch automat de coduri de reducere Bookzone de pe shopilo.ro",
+  "main": "index.js",
+  "keywords": [
+    "cod-reducere",
+    "cod-reducere-bookzone",
+    "voucher-bookzone",
+    "cupon-bookzone",
+    "reduceri",
+    "shopilo",
+    "cupoane"
+  ],
+  "author": "shopilo-ro",
+  "license": "MIT",
+  "homepage": "https://shopilo.ro/magazin/bookzone.ro",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shopilo-ro/cod-reducere-bookzone.git"
+  }
+}
